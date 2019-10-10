@@ -145,6 +145,7 @@ nav.navbar{
 	width: 100%;
 	border-radius: 0px;
 	transition: all 0.2s;
+	background: #000;
 }
 
 .navbar-nav{
